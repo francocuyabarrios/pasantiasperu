@@ -309,6 +309,7 @@ function App() {
             textAlign: 'center',
             fontSize: '40px',
             marginBottom: '50px',
+            color: '#000000',
           }}
         >
           Nuestros Programas
